@@ -123,6 +123,13 @@ java Solution < input.txt
 
 This project is licensed under the [MIT License](LICENSE).
 
+| Permissions | Limitations |
+| :--- | :--- |
+| :heavy_check_mark: Commercial use | :x: Liability |
+| :heavy_check_mark: Modification | :x: Warranty |
+| :heavy_check_mark: Distribution | |
+| :heavy_check_mark: Private use | |
+
 ---
 
 ## ⭐ Star this repo if it helped you!
