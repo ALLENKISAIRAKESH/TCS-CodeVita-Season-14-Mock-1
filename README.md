@@ -119,14 +119,9 @@ java Solution < input.txt
 
 ---
 
-## 📝 Contest Info
+## 📄 License
 
-- **Contest:** TCS CodeVita Season 14
-- **Round:** Mock Test 1
-- **Date:** October 2026
-- **Platform:** [tcscodevita.com](https://www.tcscodevita.com)
-- **Time Limit:** 1 second per problem
-- **Languages Used:** Python 3, Java 17
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
